@@ -1,0 +1,28 @@
+class : class is collection of data and function
+object : object gives permission to access the functionality of class.
+
+encapsulation: wrapping of data 
+
+inheritance: creating a class from an existing class.
+
+polymorphism: one name multiple form
+over ridding : function with same name and same parameter
+void calc(){
+a+b
+}
+
+void calc(){
+a-b
+}
+
+overloading :function with same name and diff parameter
+void calc(a,b){
+a+b
+}
+
+void calc(x,y){
+x-y
+}
+
+Abstraction :it is a process where only essential info is given 
+and details are hidden.
